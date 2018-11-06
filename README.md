@@ -4,12 +4,10 @@
 
 DICOM **D**igital **I**maging and **CO**mmunications in **M**edicine
 
-DICOM is the standard for the communication and management of medical imaging information and related data. DICOM is most commonly used for storing and transmitting medical images enabling the integration of medical imaging systems (modaliteis)  devices such as scanners, servers, workstations, printers, network hardware, and picture archiving and communication systems (PACS) from multiple manufacturers.
+DICOM is the standard for the communication and management of medical imaging information and related data. DICOM is most commonly used for storing and transmitting medical images enabling the integration of medical imaging devices (modalities) with various software from differnet vendors.
 
-DICOM to standard zarządzania i wymiany (komunikacji) danych obrazowania medycznego oraz powiązanych.
-Najczęściej wykorzystywaną cechą standardu DICOM jest wymiana obrazów medycznych 
+## Core
 
+DICOM comprises of two main parts - file format and network protocol.
 
-jest standardem dla komuniunikacji oraz zarządzania 
-is standard for the communication and management of medical imaging information and related data.
-
+DICOM file format 
