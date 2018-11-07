@@ -22,11 +22,19 @@ System składowania danych obrazowania medycznego i powiązanych. Pozwala na prz
 
 **R**adiological **I**nformation **S**ystem
 
+System zarządzania dla działów diagnostyki obrazowej. Do jego głównych funkcjonalności należy ustalanie kalendarza badań, 
 
+# 
+
+
+is the core system for the electronic management of imaging departments. The major functions of the RIS can include patient scheduling, resource management, examination performance tracking, examination interpretation, results distribution, and procedure billing.[2] RIS complements HIS (hospital information systems) and PACS (picture archiving and communication system), and is critical to efficient workflow to radiology practices.
 
 Tak jak każda przeglądarka internetowa jest w stanie wyświetlić dla użytkownika plik obrazowy przechowywany na serwerze, tak samo 
 ## Core
 
 DICOM comprises of two main parts - file format and network protocol.
+
+DICOM file format 
+
 
 DICOM file format 
