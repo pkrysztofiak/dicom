@@ -12,7 +12,9 @@ Plik DICOM to format zapisu danych obrazowania medycznego. Oprócz obrazu medycz
 
 Protokół sieciowy DICOM pozwala na wykonywanie zapytań o dane obrazowania medycznego (oraz powiązne) oraz realizuje żadania wysyłki tych danych.
 
-Za sukcesem standardu stoi przede wszystkim umożliwienie integracji pomiędzy wszystkimi dostawcami oprogramownia. Realizacja protokołu pozwala na s
+Za sukcesem standardu stoi przede wszystkim umożliwienie zewnętrznym dostawcom oprogramowania integracji ze wszystkimi składowymi działającego systemu szpitalnego. Tak jak podłączając drukarkę do komputera spodziewamy się możliwości skorzystania z jej funkcjonalności w stosunkowo krótkim czasie tak realizacja standardu pozwala na uzyskanie rozsądnego czasu, po którym możliwe jest korzystanie z nowo zakupionego oprogramowania.
+
+
 
 
 
