@@ -16,6 +16,13 @@ Za sukcesem standardu stoi przede wszystkim umożliwienie zewnętrznym dostawcom
 
 **P**icture **A**rchiving and **C**ommunication **S**ystem
 
+System składowania danych obrazowania medycznego i powiązanych. Pozwala na przechowanie danych pochodzących z różnych modalności i zapewnia szybki dostęp do tych danych.
+
+# RIS
+
+**R**adiological **I**nformation **S**ystem
+
+
 
 Tak jak każda przeglądarka internetowa jest w stanie wyświetlić dla użytkownika plik obrazowy przechowywany na serwerze, tak samo 
 ## Core
