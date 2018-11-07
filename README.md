@@ -22,7 +22,7 @@ System składowania danych obrazowania medycznego i powiązanych. Pozwala na prz
 
 **R**adiological **I**nformation **S**ystem
 
-System zarządzania dla pracowni diagnostyki obrazowej. Do jego głównych funkcjonalności należy ustalanie kalendarza badań, 
+System zarządzania dla pracowni diagnostyki obrazowej. Do jego głównych funkcjonalności należy ustalanie kalendarza badań oraz administracja zleceniami.
 
 # Interakcja
 
@@ -31,21 +31,8 @@ System zarządzania dla pracowni diagnostyki obrazowej. Do jego głównych funkc
 3.  Pacjent pojawia się w rejestracji zgodnie z wyznaczoną datą badania
 4.  System RIS zakłada zlecenie wykonania badania dla pacjenta w systemie PACS (worklista)
 5.  Pacjent udaje się do pracowni diagnostyki obrazowej
-6.  Technik wyszukuje pacjenta na worklist systemu PACS
-7.  Technik przeprowadza badanie
-8.  Przeprowadzone badanie jest utrwalne w pamięci modalności
-9.  Kopia badania skojarzona z pacjentem jest wysyłana do systemu PACS
-10.
-
-
-is the core system for the electronic management of imaging departments. The major functions of the RIS can include patient scheduling, resource management, examination performance tracking, examination interpretation, results distribution, and procedure billing.[2] RIS complements HIS (hospital information systems) and PACS (picture archiving and communication system), and is critical to efficient workflow to radiology practices.
-
-Tak jak każda przeglądarka internetowa jest w stanie wyświetlić dla użytkownika plik obrazowy przechowywany na serwerze, tak samo 
-## Core
-
-DICOM comprises of two main parts - file format and network protocol.
-
-DICOM file format 
-
-
-DICOM file format 
+6.  Technik wyszukuje pacjenta na konsoli modalności komunikującą się z worklistą systemu PACS
+7.  Akwizycja badania
+8.  Kopia badania skojarzona z pacjentem jest wysyłana do systemu PACS
+9.  Wysłanie komunikatu zakończenia akwizycji do systemu RIS
+10. RIS tworzy zlecenie opisu
